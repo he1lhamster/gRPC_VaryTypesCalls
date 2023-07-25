@@ -1,2 +1,6 @@
-# gRPC_VaryTypesCalls
-Studying python server-client project using gRPC with different types of gRPC calls
+# Study App for Python with various grpc calls
+Simple proto file, client and server, which demonstrates different call types and answers on it:
+- unary
+- server streaming
+- client streaming
+- both streaming
